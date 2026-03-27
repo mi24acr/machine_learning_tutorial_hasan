@@ -6,7 +6,6 @@ The project was created for an MSc Data Science assignment and includes:
 - a PDF tutorial
 - a Jupyter notebook with the full code
 - the dataset used in the worked example
-- generated figures
 - a requirements file
 - a licence file
 
@@ -26,10 +25,10 @@ The tutorial uses the **Palmer Penguins** dataset and focuses on:
 
 ```text
 .
-├── GMM_Tutorial_Gaussian_Mixture_Models_revised_v2.pdf
-├── GMM_Tutorial_Gaussian_Mixture_Models_revised_v2.docx
-├── gmm_tutorial_notebook_v2.ipynb
+├── LICENSE.md
+├── README.md
+├── gmm_tutorial_notebook.ipynb
+├── Tutorial_Gaussian_Mixture_Model
 ├── penguins.csv
-├── requirements_gmm_tutorial.txt
-├── LICENSE
-└── gmm_figures/
+├── requirements.txt
+
